@@ -31,7 +31,7 @@ Database: Isar
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/orbit.git
+git clone https://github.com/Vineet153015/orbit
 Install dependencies:
 
 Bash
